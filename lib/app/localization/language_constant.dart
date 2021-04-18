@@ -29,7 +29,7 @@ Locale _locale(String languageCode) {
     case FARSI:
       return Locale(FARSI, "IR");
     case ARABIC:
-      return Locale(ARABIC, "SA");
+      return Locale(ARABIC, "EG");
     case HINDI:
       return Locale(HINDI, "IN");
     default:
